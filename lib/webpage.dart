@@ -13,7 +13,7 @@ class WebPage extends StatefulWidget {
 
 class _WebPageState extends State<WebPage> {
   late WebViewController controller;
-  String host = "https://meomeomeo33335.000webhostapp.com/";
+  String host = "https://meomeomeo33335.000webhostapp.com";
   String code = "";
   String file = "link.html";
   String link = "";
